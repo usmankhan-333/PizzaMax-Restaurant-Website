@@ -10,10 +10,13 @@ A modern restaurant website developed using **HTML5** and **CSS3**.
 
 ---
 
+<<<<<<< HEAD
 # 🍕 PizzaMax Restaurant Website
 
 A modern restaurant website developed using **HTML5** and **CSS3**.
 
+=======
+>>>>>>> a70a978 (Updated README)
 ## 📖 Overview
 
 PizzaMax Restaurant Website is a static frontend project created to demonstrate fundamental web development skills using HTML and CSS.
